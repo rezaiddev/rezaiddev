@@ -5,9 +5,9 @@
 <p>
   📣 Need to contact us? Find us here: <br/>
   <a href="mailto:admin@rezaid.co.uk"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/rezaidmcr/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://web.facebook.com/rezaidmcr/"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
   <a href="https://www.linkedin.com/company/rezaid/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/rezaidmcr/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://web.facebook.com/rezaidmcr/"><img src="https://img.shields.io/badge/facebook-1877f2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://twitter.com/rezaid_mcr"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
