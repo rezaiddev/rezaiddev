@@ -10,6 +10,15 @@ So, how can fast growing, innovative and ambitious SME’s take advantage of thi
 
 That’s where we come in. Based in Manchester, Rezaid (UK) forms one half of an exclusive partnership with its sister company, Rezaid (Asia). Together, we provide bespoke software development services to close the productivity gap of high growth UK SMEs. Sharing single ownership, both halves of the partnership benefit from a common operational structure, and free flow of staff and ideas from within the UK and Asia.
 
+**Skills:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 ## Latest Blog Posts 📩
 <!-- BLOG-POST-LIST:START -->
 - [Applications of Artificial Intelligence](https://rezaid.co.uk/applications-of-ai/)
