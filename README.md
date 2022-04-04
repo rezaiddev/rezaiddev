@@ -1,4 +1,14 @@
-### Hi there 👋
+### REZAID PVT LTD 👋
+
+![Header image](https://rezaid.co.uk/wp-content/uploads/2019/02/outsource-software-3.jpg)
+
+Innovation and staying ahead of the curve are 2 sides of the same coin for growing businesses. At Rezaid, we understand that for many UK companies it is hard to source and retain experienced technical talent, which is essential to constantly drive their ambition, given the shortage of skills this sector is facing.
+
+However Asian countries are experiencing a technology boom with a glut of high-quality software engineers, many of whom have experience of working in the UK.
+
+So, how can fast growing, innovative and ambitious SME’s take advantage of this overseas talent?
+
+That’s where we come in. Based in Manchester, Rezaid (UK) forms one half of an exclusive partnership with its sister company, Rezaid (Asia). Together, we provide bespoke software development services to close the productivity gap of high growth UK SMEs. Sharing single ownership, both halves of the partnership benefit from a common operational structure, and free flow of staff and ideas from within the UK and Asia.
 
 <!--
 **rezaiddev/rezaiddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
