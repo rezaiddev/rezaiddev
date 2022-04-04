@@ -10,6 +10,23 @@ So, how can fast growing, innovative and ambitious SME’s take advantage of thi
 
 That’s where we come in. Based in Manchester, Rezaid (UK) forms one half of an exclusive partnership with its sister company, Rezaid (Asia). Together, we provide bespoke software development services to close the productivity gap of high growth UK SMEs. Sharing single ownership, both halves of the partnership benefit from a common operational structure, and free flow of staff and ideas from within the UK and Asia.
 
+## Latest Blog Posts 📩
+<!-- BLOG-POST-LIST:START -->
+- [Applications of Artificial Intelligence](https://rezaid.co.uk/applications-of-ai/)
+- [Top 10 Workout Apps in 2021](https://rezaid.co.uk/best-workout-apps-2021/)
+- [The 5 Skills You Need For Good UX Design](https://rezaid.co.uk/skills-for-ux-design/)
+- [Ethical Framework in UX: The Dark Patterns To Avoid](https://rezaid.co.uk/ethics-in-ux/)
+- [The Mind Rules: Psychology Facts & Patterns in UX Design](https://rezaid.co.uk/psychology-in-ux-design/)
+<!-- BLOG-POST-LIST:END -->
+
+## <h3 align="left">GitHub Stats</h3>
+
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=rezaiddev&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaiddev&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
 <!--
 **rezaiddev/rezaiddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
